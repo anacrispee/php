@@ -1,4 +1,4 @@
-# Primeiros estudos em PHP
+# Estudos em PHP
 
 ## Conhecendo a linguagem:
 - Primeiro "Hello World!";
