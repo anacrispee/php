@@ -12,9 +12,9 @@
 ## Primeira atividade prática:
 - Formulário de cadastro simples (apenas com HTML e PHP).
 
-### Sobre:
+## Sobre:
 
-#### O que é XAMPP?
+### O que é XAMPP?
 
 "O XAMPP é um pacote de software livre amplamente utilizado para criar e configurar um ambiente de desenvolvimento web local."<br>
 **X** = indica que ele é multiplataforma, podendo ser usado em vários SOs;<br>
