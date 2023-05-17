@@ -3,6 +3,7 @@
 ## Conhecendo a linguagem:
 - Primeiro "Hello World!";
 - Estruturas de controle em PHP;
+- Arrays em PHP;
 
 ## Contato com XAMPP
 - Conhecendo o que é o XAMPP
