@@ -15,9 +15,9 @@
 
 #### O que é XAMPP?
 
-"O XAMPP é um pacote de software livre amplamente utilizado para criar e configurar um ambiente de desenvolvimento web local."
-X = indica que ele é multiplataforma, podendo ser usado em vários SOs;<br>
-A = servidor web Apache;<br>
-M = bando de dados MySQL;<br>
-P = referência a PHP ("linguagem mais voltada para a web, com recursos embutidos para processar formulários, gerar páginas dinâmicas e interagir com bancos de dados.");<br>
-P = referência a Perl (" linguagem de propósito geral que pode ser usada para uma ampla gama de tarefas, incluindo processamento de texto, automação de tarefas e desenvolvimento de aplicativos.").
+"O XAMPP é um pacote de software livre amplamente utilizado para criar e configurar um ambiente de desenvolvimento web local."<br>
+**X** = indica que ele é multiplataforma, podendo ser usado em vários SOs;<br>
+**A** = servidor web Apache;<br>
+**M** = bando de dados MySQL;<br>
+**P** = referência a PHP ("linguagem mais voltada para a web, com recursos embutidos para processar formulários, gerar páginas dinâmicas e interagir com bancos de dados.");<br>
+**P** = referência a Perl (" linguagem de propósito geral que pode ser usada para uma ampla gama de tarefas, incluindo processamento de texto, automação de tarefas e desenvolvimento de aplicativos.").
