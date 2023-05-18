@@ -80,4 +80,8 @@ foreach ($veiculo as list($nome, list($modelo, $caracteristica, $ano))) {
     echo "Droga, é o Braia!";
 }
 
+/*FUNÇÃO LIST:
+"Usada para atribuir valores a uma lista de variáveis em uma única operação.
+Ela permite extrair os elementos de um array e atribuí-los a variáveis separadas." */
+
 ?>
