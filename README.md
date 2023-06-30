@@ -13,6 +13,9 @@
 ## Primeira atividade prática:
 - Formulário de cadastro simples (apenas com HTML e PHP).
 
+## Segunda atividade - Biblioteca:
+https://github.com/anacrispee/biblioteca
+
 ## Sobre:
 
 ### O que é XAMPP?
